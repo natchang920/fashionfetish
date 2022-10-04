@@ -1,5 +1,4 @@
 # fashion trends of 2022
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -15,4 +14,3 @@
 <h1> cargo skirts </h1>
 </body>
 
-</html>
