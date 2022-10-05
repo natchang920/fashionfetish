@@ -1,4 +1,4 @@
-# fashion trends of 2022
+
 <html>
 <head>
 
