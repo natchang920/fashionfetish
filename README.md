@@ -18,7 +18,7 @@
 <h1> parachute pants </h1>
 <img src="https://i.pinimg.com/474x/ee/d8/8e/eed88e8fb7f79421e3175bf56a7e75a1.jpg" width="190" height="300">
 
-<p> [a youtube video by MAIAZINE on fall 2022 trends](https://www.youtube.com/watch?v=nQhFyPIZoXA&t=515s) </p>
+[a youtube video by MAIAZINE on fall 2022 trends](https://www.youtube.com/watch?v=nQhFyPIZoXA&t=515s) 
 
 </body>
 
